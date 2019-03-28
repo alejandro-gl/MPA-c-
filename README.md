@@ -9,3 +9,4 @@ Práctica 3: Recursividad
 
 Práctica 4: Transformación de algoritmos recursivos en iterativos
 
+Práctica 5: Divide y vencerás
