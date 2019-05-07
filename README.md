@@ -12,3 +12,7 @@ Práctica 4: Transformación de algoritmos recursivos en iterativos
 Práctica 5: Divide y vencerás
 
 Práctica 6: Algoritmos voraces
+
+Práctica 7: Programación Dinámica
+
+Práctica 8: Vuelta Atrás
